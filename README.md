@@ -6,6 +6,14 @@ Interesuje mnie droga od pomysłu do rozwiązania, które można uruchomić, zro
 
 [Strona i portfolio](https://mikolajmikolajczak.pl) · [Artykuły](https://mikolajmikolajczak.pl/blog) · [Kontakt](https://mikolajmikolajczak.pl/kontakt)
 
+## FLYLAB — zajrzeć do środka reakcji
+
+Od muszki i osy w arenie 3D do modelowanej aktywności konektomu. FLYLAB łączy wizualizację danych MaleCNS, telemetrię i eksperymentalne Evolution Lab dla sztucznych agentów. Dokumentacja wyraźnie oddziela dane źródłowe od autorskiej symulacji.
+
+**Node.js · Three.js · WebSocket · Python / PyTorch CUDA**
+
+[Zobacz projekt, screeny i instrukcję uruchomienia →](https://github.com/mikolajmikolajczak0108/flylab)
+
 ## Gest zamiast myszy
 
 Co się stanie, gdy zwykła kamera internetowa zastąpi mysz? Rozpoznanie dłoni to początek. Prawdziwe wyzwanie to spokojny ruch kursora i kliknięcie, które nie przesuwa celu.
@@ -28,4 +36,4 @@ To otwarty zbiór instrukcji do code review, threat modelingu, DevSecOps, UI/UX,
 
 ---
 
-Pozostałe repozytoria obejmują wcześniejsze ćwiczenia i eksperymenty. Dwa projekty powyżej są punktem startowym do poznania mojego obecnego warsztatu.
+Pozostałe repozytoria obejmują wcześniejsze ćwiczenia i eksperymenty. Projekty powyżej są punktem startowym do poznania mojego obecnego warsztatu.
